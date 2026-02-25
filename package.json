@@ -1,0 +1,7 @@
+{
+  "name": "twikoo-vercel",
+  "version": "1.0.0",
+  "dependencies": {
+    "twikoo": "^1.6.39"
+  }
+}
